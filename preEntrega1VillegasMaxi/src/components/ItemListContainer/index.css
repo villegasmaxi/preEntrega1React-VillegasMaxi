@@ -1,0 +1,16 @@
+.content{
+    border: 2px solid black;
+    background-image: url(../../../public/DreamShaper_v5_disfrutar_de_su_cena_vista_superior_de_alimento_1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    color: lightblue
+}
+.h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.4em;
+    margin-top: 1em;
+}
+.h2{
+    margin: 1em;
+}
