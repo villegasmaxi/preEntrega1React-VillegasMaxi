@@ -1,4 +1,4 @@
-import ListContainer from "../ItemListContainer"; 
+ 
 import Button from "../Button";
 import Cartwidget from "../CartWidget";
 import Brand from "../Brand";
@@ -30,13 +30,6 @@ function Navbar() {
         </div>
 
         <Cartwidget valor="0" />
-      </div>
-
-      <div className="listItem">
-      <ListContainer
-     title="bienvenido a calculo a la romana"
-     subTitle="Donde los amigos comparten los gastos de su cena "
-     />
       </div>
     </>
   );
